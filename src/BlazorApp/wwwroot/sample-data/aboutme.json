@@ -1,12 +1,26 @@
 {
   "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Programming",
+    "C#",
+    ".NET 6",
+    "ASP.NET CORE",
+    "ASP.NET CORE MVC",
+    "ASP.NET CORE API",
+    "REST API",
+    "Data Modeling",
+    "Entity Framework Core 6",
+    "SQL",
+    "Microsoft Azure",
+    "Object Oriented Programming (OOP)",
+    "Java",
+    "Javascript",
+    "SQL Server",
+    "Visual Studio",
+    "C/C++",
+    "Software Development",
+    "Web Development"
   ],
   "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+
 }
